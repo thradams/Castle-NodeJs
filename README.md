@@ -7,7 +7,7 @@ Castle is based on building blocks that can be used together to create the user 
 
 ## Installing Castle
 
-Castle command-line runs on Node.js and is available on NPM.
+Castle command-line runs on Node.js and is available on NPM. (not yet)
 
 ## Create a project
 
