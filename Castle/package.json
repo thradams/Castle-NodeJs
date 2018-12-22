@@ -1,0 +1,9 @@
+{
+  "name": "Castle",
+  "version": "0.0.1",
+  "description": "Castle",
+  "main": "castle.js",
+  "author": {
+    "name": "Thiago Rosso Adams"
+  }
+}

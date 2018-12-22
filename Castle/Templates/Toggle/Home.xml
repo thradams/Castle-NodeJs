@@ -1,0 +1,11 @@
+<Home>
+  
+  <h1>Toggle Switch</h1>
+  <ToggleSwitch/>
+  
+  <span>Ar 12</span>
+  <ToggleSwitch Value="true" onchange="this.Screen.OnChange(b);"/>
+
+  <ToggleSwitch Value="false"/>
+
+</Home>

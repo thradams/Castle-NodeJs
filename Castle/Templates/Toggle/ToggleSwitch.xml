@@ -1,0 +1,4 @@
+<ToggleSwitch Class='label' className='switch'>
+  <input type="checkbox"/>
+  <span class="slider round"></span>
+</ToggleSwitch>

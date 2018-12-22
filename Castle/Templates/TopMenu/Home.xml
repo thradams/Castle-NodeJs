@@ -1,0 +1,8 @@
+<Home>
+
+  <TopMenu>
+    <TopMenuButton Text ="Edit"></TopMenuButton>
+  </TopMenu>
+
+  <p>Top menu sample</p>
+</Home>

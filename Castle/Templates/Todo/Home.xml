@@ -1,0 +1,16 @@
+<Home>
+  <div>
+    <h3>TODO</h3>
+    
+    <TodoList Name="List"></TodoList>
+    
+    <label>
+      What needs to be done?
+    </label>
+    <br/>
+    <Input Name="Text" />
+    <br/>
+    <Button Name="AddBtn" innerText="Add" onclick="this.Screen.OnAdd();">Add</Button>
+
+  </div>
+</Home>
