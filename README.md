@@ -3,13 +3,14 @@
 
 ## Installing Castle
 
-Castle command-line runs on Node.js and is available on NPM.
+Castle command-line runs on Node.js and is available on NPM. (not yet)
 
 ## Create a project
 
 ```
-castle create MyApp
+castle create Hello MyApp
 ```
+Hello is the template. See templates folder for more templates.
 
 ## Building
 
@@ -18,6 +19,3 @@ castle build MyApp
 ```
 
 
-## Next
-
-See the documentation
