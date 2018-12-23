@@ -33,9 +33,10 @@ function BuildApp(appPath)
 
       indexHtmlSource += '<script src="' + file + '"></script>\n';
 
-      if (fs.existsSync(appPath + "/source/" + name + ".xml"))
+      
+      if (fs.existsSync(appPath + "/source/" + name + ".html"))
       {
-        var contentsXML = fs.readFileSync(appPath + "/source/" + name + ".xml", 'utf8');
+        var contentsXML = fs.readFileSync(appPath + "/source/" + name + ".html", 'utf8');
         var contentsJS = fs.readFileSync(appPath + "/source/" + name + ".js", 'utf8');
         var content = "Design." + name + "=`\n";
         content += contentsXML + "\n`;\n\n";
